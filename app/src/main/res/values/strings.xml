@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Автосалон</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="Maxim">Козлов Максим Игоревич</string>
+    <string name="Status">Должность</string>
+    <string name="Telephone">Телефон</string>
+    <string name="mail">E-mail</string>
+    <string name="Mech">Механик</string>
+    <string name="Phone">+79548357754</string>
+    <string name="examplemail">MaximK@mail.ru</string>
+    <string name="welldone">Выполненные заказы</string>
+    <string name="settings">Настройки</string>
+    <string name="doneorders">Выполненные заказы</string>
+    <string name="galochka">Утвердить</string>
+    <string name="nazad">Назад</string>
+    <string name="plus">Добавить</string>
+    <string name="input_searc">Введите для поиска</string>
+    <string name="button_list">Список заказов</string>
+    <string name="button_profile">Профиль</string>
+    <string name="button_order">Заказ</string>
+    <string name="button_back">назад</string>
+    <string name="button_done_orders">ЗДЕСЬ БУДУТ ВЫПОЛНЕННЫЕ ЗАКАЗЫ</string>
+    <string name="button_new_orders">ЗДЕСЬ БУДУТ НОВЫЕ ЗАКАЗЫ</string>
+    <string name="button_info_orders">ЗДЕСЬ БУДЕТ ИНФОРМАЦИЯ О ЗАКАЗАХ</string>
+    <string name="text_hello">Добро пожаловать!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

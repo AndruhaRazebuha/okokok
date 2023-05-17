@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FirstFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/container_new_active"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+
+
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/new_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="0dp"
+            android:layout_marginTop="0dp"
+            android:layout_weight="1"
+            android:backgroundTint="@color/Clear"
+            android:background="@color/Clear"
+            android:text="Новые"
+
+
+
+            android:textAlignment="center"
+            android:textColor="@color/Blue_ptoject"
+            android:textSize="28dp"
+
+            />
+
+
+        <Button
+
+            android:id="@+id/active_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="0dp"
+            android:layout_marginTop="0dp"
+            android:layout_weight="1"
+
+            android:background="@color/Clear"
+
+
+            android:text="Активные"
+            android:textColor="@color/Grey_project"
+            android:textSize="28dp" />
+
+    </LinearLayout>
+
+        <FrameLayout
+            android:id="@+id/containear"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/container_new_active"
+            >
+        </FrameLayout>
+
+    </RelativeLayout>
+
+</FrameLayout>

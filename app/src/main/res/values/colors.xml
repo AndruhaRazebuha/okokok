@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#213d82</color>
+    <color name="white_gray">#6f727a</color>
+    <color name="green">#21a650</color>
+    <color name="gray">#515358</color>
+    <color name="orange">#be9244</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bluebackground">#213D82</color>
+    <color name="Grey_borders_project">#C0C0C0</color>
+    <color name="greyy">#6F727A</color>
+    <color name="Clear">#00000000</color>
+    <color name="Blue_ptoject">#213D82</color>
+    <color name="Grey_project">#6F727A</color>
+    <color name="purple_500">#6F727A</color>
+    <color name="purple_700">#6F727A</color>
+    <color name="teal_700">#6F727A</color>
+    <color name="teal_200">#6F727A</color>
+    <color name="purple_200">#6F727A</color>
+
+</resources>
